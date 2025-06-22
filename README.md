@@ -41,7 +41,7 @@ To develop an interactive and responsive music player that can play, pause, skip
 
 ## 🔗 GitHub Repository
 
-💻 [GitHub Project Link](https://github.com/yourusername/MusicPlayer_CodeAlpha) *(Replace with your actual link)*
+💻 [GitHub Project Link] https://github.com/zeeshanhyder12/CodeAlpha_Music-Player-using-JavaScript
 
 ---
 
